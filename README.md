@@ -24,8 +24,8 @@ dependencies {
 
 - Lakukan push ke GitHub dengan membuat repositori baru dan menjalankan perintah berikut:
 
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/hervianggarh94/TugasModul18.git
-git push -u origin master
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git remote add origin https://github.com/hervianggarh94/TugasModul18.git
+- git push -u origin master
